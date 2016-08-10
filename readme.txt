@@ -6,3 +6,4 @@ Git is free software.
 diff
 diff2
 
+resovle file
